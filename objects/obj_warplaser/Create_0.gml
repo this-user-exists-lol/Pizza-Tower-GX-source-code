@@ -1,0 +1,10 @@
+hsp = 0;
+vsp = 0;
+image_speed = 0.35;
+object = instance_nearest(x, y, obj_warppoint);
+player = 3;
+storedstate = 0;
+storedmovespeed = 6;
+storedgrav = 0.5;
+storedimageindex = 0;
+storedspriteindex = 614;

@@ -1,0 +1,10 @@
+trigger = 0;
+start = 0;
+image_speed = 0.35;
+player = 3;
+storedstate = 0;
+storedmovespeed = 6;
+storedgrav = 0.5;
+storedimageindex = 0;
+storedspriteindex = 614;
+storedfreefallsmash = 0;

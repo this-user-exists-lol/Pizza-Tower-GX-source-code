@@ -1,0 +1,4 @@
+global.showcollisions = 0
+
+
+

@@ -1,0 +1,9 @@
+playerid = 0;
+trailtype = 0
+stretchdone = 0
+xstretch2 = 0
+ystretch2 = 0
+image_alpha = 1
+image_speed = 0;
+alarm[1] = 3;
+alarm[0] = 15;
